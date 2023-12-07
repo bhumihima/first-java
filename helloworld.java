@@ -1,4 +1,4 @@
-// your first program new
+// your first program old
 class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World");
